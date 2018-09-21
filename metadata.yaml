@@ -1,5 +1,5 @@
 _repo: The-Boy-Scouts-of-Woodcraft-Camp_54755
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Corson, C. S. (Charles Schell)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '25238'
     url: http://www.gutenberg.org/2009/agents/25238
+covers:
+- cover_type: archival
+  image_path: 54755-h/images/cover.jpg
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/717
     wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54755#The-Boy-Scouts-of-Woodcraft-Camp
 gutenberg_issued: '2017-05-21'
 gutenberg_type: Text
 identifiers:
